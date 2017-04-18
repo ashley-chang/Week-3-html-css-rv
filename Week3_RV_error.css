@@ -1,0 +1,46 @@
+h8{
+  font-family: 'Merriweather', serif;
+  color: #566573;
+  text-align: center;
+}
+
+p{
+  font-fam: Verdana;
+  font-size: 16px;
+  text-align: left;
+}
+
+.top{
+  border-style: inset;
+  border-color: #AEB6BF;
+  border-width: 10pz;
+  background-image: -webkit-linear-gradient(#FDFEFE,  #D6EAF8);
+  padding: 20px;
+}
+
+#li{
+  font-family: Verdana;
+  font-size: 14px;
+}
+
+.botttom{
+  border-style: dotted;
+  border-width: 5px;
+  border-color: black;
+  float: right;
+}
+
+.modify{
+  font-family: Times New Roman;
+  font-size: 13px;
+  text-align: centre;
+}
+
+img{
+  max-width: 800px;
+  max-height: 800px;
+
+
+body{
+  overflow: scroll;
+}
